@@ -1,0 +1,9 @@
+{
+  "lastRun": "1739938120257-createproductstable.js",
+  "migrations": [
+    {
+      "title": "1739938120257-createproductstable.js",
+      "timestamp": 1739938238031
+    }
+  ]
+}
